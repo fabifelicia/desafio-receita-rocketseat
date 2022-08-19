@@ -1,6 +1,6 @@
 # Recipe Page
 
-This is a solution to the [Rocketseat](https://celero.com.br/) challenge - Recipe Page.  
+This is a solution to the [Rocketseat](https://www.rocketseat.com.br/) challenge - Recipe Page.  
 
 ## Table of contents
 
@@ -12,21 +12,21 @@ This is a solution to the [Rocketseat](https://celero.com.br/) challenge - Recip
 
 ### Screenshot
 
-![](./assets/images/index.png)
+
 
 ### Links
 
-- Solution URL: (https://github.com/fabifelicia/cookfy)
-- Live Site URL: (https://cookfy.vercel.app/)
+- Solution URL: (https://github.com/fabifelicia/desafio-receita-rocketseat)
+- Live Site URL: (https://desafio-receita-rocketseat.vercel.app/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 ## Author
 
 - Fabiana Barreto - [@fabifelicia](https://github.com/fabifelicia)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/fabifelicia/desafio-receita-rocketseat/badge)](https://www.codefactor.io/repository/github/fabifelicia/desafio-receita-rocketseat)
