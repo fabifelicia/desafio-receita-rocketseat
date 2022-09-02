@@ -12,7 +12,7 @@ This is a solution to the [Rocketseat](https://www.rocketseat.com.br/) challenge
 
 ### Screenshot
 
-
+![](./assets/screenshot.png)
 
 ### Links
 
