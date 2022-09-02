@@ -28,6 +28,7 @@ This is a solution to the [Rocketseat](https://www.rocketseat.com.br/) challenge
 ## Author
 
 [<img src="https://avatars.githubusercontent.com/u/39680930?v=4" width=115><br><sub>Fabiana Barreto</sub>](https://github.com/fabifelicia)
-- Fabiana Barreto - [@fabifelicia](https://github.com/fabifelicia)
+
+Copyright :copyright: 2022 - Rocketseat
 
 [![CodeFactor](https://www.codefactor.io/repository/github/fabifelicia/desafio-receita-rocketseat/badge)](https://www.codefactor.io/repository/github/fabifelicia/desafio-receita-rocketseat)
