@@ -16,7 +16,6 @@ This is a solution to the [Rocketseat](https://www.rocketseat.com.br/) challenge
 
 ### Links
 
-- Solution URL: (https://github.com/fabifelicia/desafio-receita-rocketseat)
 - Live Site URL: (https://desafio-receita-rocketseat.vercel.app/)
 
 
